@@ -1,16 +1,43 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**AYceren11/AYceren11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://github-readme-stats.vercel.app/api?username=ayceren11&show_icons=true&theme=synthwave&hide_border=true" height="180"/>
 
-Here are some ideas to get you started:
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ayceren11&layout=compact&theme=synthwave&hide_border=true" height="180"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://streak-stats.demolab.com?user=ayceren11&theme=synthwave&hide_border=true" height="180"/>
+
+</div>
+
+
+---
+
+<h1 align="center">Hi 👋, I'm Ayşe Ceren Şenel</h1>
+<h3 align="center">Computer Engineering Student | AI & Software Developer</h3>
+
+---
+
+## 🚀 About Me
+
+- 🎓 Computer Engineering Student  
+- 🤖 Interested in Artificial Intelligence & Backend Systems  
+- 🛠️ Building ML-based decision systems  
+- 🎯 Goal: AI Engineer in Defense Industry  
+
+---
+
+## 🌐 Links
+
+- 🌍 Portfolio: https://aysecerensenel.com  
+- 📝 Medium: https://medium.com/@drayceren  
+- 💼 LinkedIn: https://linkedin.com/in/ayşecerenşenel  
+- 📫 Mail: drayceren@gmail.com  
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages:** Python, C, C++, C#, Java, JavaScript  
+**Web:** HTML, CSS, Flask, PHP  
+**Database:** MySQL  
+**Tools:** Git, Linux, MATLAB  
+**AI:** Scikit-Learn
